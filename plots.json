@@ -1,0 +1,293 @@
+[
+  {
+    "plotid": "649eabf9960dd82e9baee887",
+    "plotname": "plot 1",
+    "info": "occaecat duis nulla est officia",
+    "zones": [
+      {
+        "id": "1",
+        "name": "zona.",
+        "lat": 40.04695143754384,
+        "lng": -2.63619194876253
+      },
+      {
+        "id": "2",
+        "name": "esse non",
+        "lat": 39.31609041481087,
+        "lng": -2.24280277938135
+      },
+      {
+        "id": "3",
+        "name": "minim aliquip",
+        "lat": 39.36972673044929,
+        "lng": -1.5537988924386639
+      },
+      {
+        "id": "4",
+        "name": "totale aliquip",
+        "lat": 40.263554733795246,
+        "lng": -1.4305004342762686
+      }
+    ],
+    "geojson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-2.63619194876253, 40.04695143754384],
+                [-2.24280277938135, 39.31609041481087],
+                [-1.5537988924386639, 39.36972673044929],
+                [-1.4305004342762686, 40.263554733795246],
+                [-2.63619194876253, 40.04695143754384]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "plotid": "649eabf9f4850697542e4b00",
+    "plotname": "aliquip magna",
+    "info": "ad voluptate nostrud aute velit",
+    "zones": [
+      {
+        "id": "1",
+        "name": "dolor magna",
+        "lat": 38.9892934557181,
+        "lng": -4.982639973653136
+      },
+      {
+        "id": "2",
+        "name": "sit quis",
+        "lat": 38.38490112550414,
+        "lng": -3.8669895963088265
+      },
+      {
+        "id": "3",
+        "name": "et excepteur",
+        "lat": 39.3073458838185,
+        "lng": -3.7865236869616012
+      }
+    ],
+    "geojson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-4.982639973653136, 38.9892934557181],
+                [-3.8669895963088265, 38.38490112550414],
+                [-3.7865236869616012, 39.3073458838185],
+                [-4.982639973653136, 38.9892934557181]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "plotid": "649eabf964a1ad61bd8b701e",
+    "plotname": "occaecat exercitation",
+    "info": "et elit aute aute incididunt",
+    "zones": [
+      {
+        "id": "1",
+        "name": "ullamco amet",
+        "lat": 38.82384312630154,
+        "lng": -7.3244460859060325
+      },
+      {
+        "id": "2",
+        "name": "labore ut",
+        "lat": 37.98744846066728,
+        "lng": -7.09699121286306
+      },
+      {
+        "id": "3",
+        "name": "ut eu",
+        "lat": 37.847093076502134,
+        "lng": -6.2197530882715455
+      },
+      {
+        "id": "4",
+        "name": "ullamco amet",
+        "lat": 38.53935393730566,
+        "lng": -5.480355793296411
+      },
+      {
+        "id": "5",
+        "name": "labore ut",
+        "lat": 39.11212428552702,
+        "lng": -6.470768024851338
+      }
+    ],
+    "geojson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-7.3244460859060325, 38.82384312630154],
+                [-7.09699121286306, 37.98744846066728],
+                [-6.2197530882715455, 37.847093076502134],
+                [-5.480355793296411, 38.53935393730566],
+                [-6.470768024851338, 39.11212428552702],
+                [-7.3244460859060325, 38.82384312630154]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "plotid": "64a273109207a1d33ffb5a78",
+    "plotname": "aqua pariatur",
+    "info": "enim ex mollit ea enim",
+    "zones": [
+      {
+        "id": "1",
+        "name": "elit duis",
+        "lat": 41.659284008256805,
+        "lng": -2.015385019613859
+      },
+      {
+        "id": "2",
+        "name": "id tempor",
+        "lat": 40.57996800108711,
+        "lng": -2.156643504762201
+      },
+      {
+        "id": "3",
+        "name": "laboris adipisicing",
+        "lat": 41.16743393701242,
+        "lng": -0.7137889778885835
+      }
+    ],
+    "geojson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-2.015385019613859, 41.659284008256805],
+                [-2.156643504762201, 40.57996800108711],
+                [-0.7137889778885835, 41.16743393701242],
+                [-2.015385019613859, 41.659284008256805]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "plotid": "64a27310d77ecb66ddc50a1e",
+    "plotname": "aqua reprehenderit",
+    "info": "culpa ipsum ut cillum non",
+    "zones": [
+      {
+        "id": "1",
+        "name": "sunt irure",
+        "lat": 41.281268284884334,
+        "lng": -3.6903070578031816
+      },
+      {
+        "id": "2",
+        "name": "amet proident",
+        "lat": 40.44188713129114,
+        "lng": -3.4279698710991795
+      },
+      {
+        "id": "3",
+        "name": "ad ea",
+        "lat": 41.1294451249118,
+        "lng": -2.862935930504932
+      }
+    ],
+    "geojson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-3.6903070578031816, 41.281268284884334],
+                [-3.4279698710991795, 40.44188713129114],
+                [-2.862935930504932, 41.1294451249118],
+                [-3.6903070578031816, 41.281268284884334]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "plotid": "64a273107f050f00c9fe705d",
+    "plotname": "aqua occaecat",
+    "info": "consequat aute sit ut ullamco",
+    "zones": [
+      {
+        "id": "1",
+        "name": "qui aliquip",
+        "lat": 40.28043358510641,
+        "lng": -4.376419699953118
+      },
+      {
+        "id": "2",
+        "name": "non qui",
+        "lat": 39.47516492387069,
+        "lng": -4.648846778453446
+      },
+      {
+        "id": "3",
+        "name": "id mollit",
+        "lat": 39.87123781902588,
+        "lng": -3.6499474906177056
+      }
+    ],
+    "geojson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-4.376419699953118, 40.28043358510641],
+                [-4.648846778453446, 39.47516492387069],
+                [-3.6499474906177056, 39.87123781902588],
+                [-4.376419699953118, 40.28043358510641]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

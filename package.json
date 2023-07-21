@@ -1,0 +1,16 @@
+{
+  "name": "vue-qampo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx serve",
+    "style": "node-sass --watch main.scss main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet-extra-markers": "^1.2.2",
+    "node-sass": "^9.0.0"
+  }
+}
